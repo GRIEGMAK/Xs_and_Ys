@@ -1,0 +1,4 @@
+﻿  tiktaktoe.cpp
+C:\Users\дщсфдгыук\source\repos\tiktaktoe\tiktaktoe\tiktaktoe.cpp(161,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\дщсфдгыук\source\repos\tiktaktoe\tiktaktoe\tiktaktoe.cpp(213): warning C4715: playerwin: значение возвращается не при всех путях выполнения
+  tiktaktoe.vcxproj -> C:\Users\дщсфдгыук\source\repos\tiktaktoe\Debug\tiktaktoe.exe
